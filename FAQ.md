@@ -69,7 +69,7 @@ put answer here
 ### How does Cyber Resilience fit with NIST NIST Risk Management Framework (RMF) SP 800-53?
 put answer here
 
-### How does Cyber Resilience fit with Mitre ATT&CK?
+### How does Cyber Resilience fit with MITRE ATT&CK?
 put answer here
 
 ### How does Cyber Resilience relate to compliance?
@@ -85,3 +85,9 @@ put answer here
 Similar to cybersecurity spend, cyber-resilience spend
 can be justified using quantitative risk analysis such as in
 [_How to Measure Anything in Cybersecurity Risk_](https://www.barnesandnoble.com/w/how-to-measure-anything-in-cybersecurity-risk-douglas-w-hubbard/1122610668).
+
+What country regulations require Cyber Resilience?
+
+Is Cyber Resilience mainly applicable to the critical infrastructure and/or oil & gas industry?
+
+How to effectively measure Cyber Resilience?
